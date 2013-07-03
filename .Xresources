@@ -1,0 +1,70 @@
+! Xresources file
+
+! -- Urxvt -- !
+URxvt*borderless:	1
+URxvt*scrollBar:	false
+URxvt*scrollBar_right:	false
+URxvt*saveLines:	512
+URxvt*termName:		rxvt
+URxvt.iso14755:		false
+
+
+ 
+! -- Fonts settings -- !
+Xft.hintstyle: hintmedium
+Xft.hinting:   true
+Xft.antialias: true
+Xft.dpi:       96
+Xft.rgba:      rgb
+
+! -- Fonts -- !
+URxvt*font:xft:Envy Code R:size=10:antialias=false
+!URxvt*font:xft:Terminus:size=10:antialias=false
+URxvt*boldFont:xft:Envy Code R:size=10:antialias=false
+
+
+
+! -- Color -- !
+URxvt*foreground: #e5e5e5 
+URxvt*background: #1d1d1d
+URxvt*cursorColor: #FFF9EC
+!Black
+*color0: #121212
+*color8: #2e3436
+!Red
+*color1: #a35b66
+*color9: #ab6b74
+!Green
+*color2: #99ab6f
+*color10: #acb792
+!Yellow
+*color3: #ca9733
+*color11: #ccaa69
+!Blue
+*color4: #495d6e
+*color12: #687987
+!Magenta
+*color5: #825969
+*color13: #977381
+!Cyan
+*color6: #839191
+*color14: #98A4A4
+!White
+*color7: #E0E0E0
+*color15: #e5e5e5
+
+
+! -- Xautolock screen locker -- !
+Xautolock.time:        10
+Xautolock.corners:     +0-0
+Xautolock.cornerdelay: 10
+Xautolock.locker:      i3lock -c 444444 
+
+
+! -- Extension -- !
+URxvt.perl-ext-common: default,clipboard,matcher,keyboard-select
+URxvt.keysym.M-c:	perl:clipboard:copy
+URxvt.keysym.M-v:	perl:clipboard:paste
+URxvt.keysym.M-C-v:	perl:clipboard:paste_escaped
+URxvt.url-launcher:	/usr/bin/chromium
+URxvt.matcher.button:	1
