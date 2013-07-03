@@ -1,6 +1,6 @@
 " ----------------------
 " file:    ~/.vimrc
-" authtor: serdotlinecho
+" original authtor: serdotlinecho
 " ----------------------
 
 map ; :
