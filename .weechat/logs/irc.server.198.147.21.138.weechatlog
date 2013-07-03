@@ -1,0 +1,319 @@
+2013-06-23 03:45:03	--	irc: connecting to server 198.147.21.138/6667...
+2013-06-23 03:45:41	--	irc: disconnected from server
+2013-06-23 03:45:58	--	irc: connecting to server 198.147.21.138/1030...
+2013-06-23 03:45:59	--	irc: connected to 198.147.21.138/1030 (198.147.21.138)
+2013-06-23 03:45:59	--	Password required
+2013-06-23 03:46:00	--	irc.znc.in (irc.znc.in): *** You need to send your password. Try /quote PASS <username>:<password>
+2013-06-23 03:46:24	--	Welcome to the freenode Internet Relay Chat Network JohannKrauss
+2013-06-23 03:46:24	--	Your host is morgan.freenode.net[2610:150:2c68::d0:dab:1de5/6667], running version ircd-seven-1.1.3
+2013-06-23 03:46:24	--	This server was created Tue Mar 12 2013 at 18:27:25 EDT
+2013-06-23 03:46:24	--	morgan.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-06-23 03:46:24	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-06-23 03:46:24	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-06-23 03:46:24	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-06-23 03:46:24	--	There are 191 users and 78552 invisible on 26 servers
+2013-06-23 03:46:24	--	33 :IRC Operators online
+2013-06-23 03:46:24	--	45097 :channels formed
+2013-06-23 03:46:24	--	I have 244 clients and 1 servers
+2013-06-23 03:46:24	--	244 6399 :Current local users 244, max 6399
+2013-06-23 03:46:24	--	78743 90793 :Current global users 78743, max 90793
+2013-06-23 03:46:24	--	Highest connection count: 6400 (6399 clients) (88162 connections received)
+2013-06-23 03:46:24	--	- morgan.freenode.net Message of the Day -
+2013-06-23 03:46:24	--	- Welcome to morgan.freenode.net in Chicago, IL, USA! Thank
+2013-06-23 03:46:24	--	- you to psyprus for sponsoring this server!
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- MORGAN, RICHARD K. (1965-) is an English science fiction
+2013-06-23 03:46:24	--	- author. Morgan's books are generally set in a dystopian world.
+2013-06-23 03:46:24	--	- His breakout novel Altered Carbon won the Philip K. Dick Award,
+2013-06-23 03:46:24	--	- and he has written many successful and amazing works to follow.
+2013-06-23 03:46:24	--	- His more recent writings feature heavily on the theme of
+2013-06-23 03:46:24	--	- autonomy in science fiction and escapism in fantasy.
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- Welcome to freenode - supporting the free and open source
+2013-06-23 03:46:24	--	- software communities since 1998.
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- By connecting to freenode you indicate that you have read and
+2013-06-23 03:46:24	--	- agree to adhere to our policies and procedures as per the
+2013-06-23 03:46:24	--	- website (http://freenode.net/).
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- We would like to remind you that unauthorised public logging
+2013-06-23 03:46:24	--	- of channels on the network is prohibited. Public channel
+2013-06-23 03:46:24	--	- logging should only take place where the channel owner(s) has
+2013-06-23 03:46:24	--	- requested this and users of the channel are all made aware
+2013-06-23 03:46:24	--	- (if you are publically logging your channel, you may wish to
+2013-06-23 03:46:24	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- freenode runs an open proxy scanner. For details on freenode
+2013-06-23 03:46:24	--	- network policy, please take a look at our policy page
+2013-06-23 03:46:24	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-06-23 03:46:24	--	- indicates your acceptance of this policy.
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- Please join #freenode for any network-related questions or
+2013-06-23 03:46:24	--	- queries, there are numerous freenode volunteers and helpful
+2013-06-23 03:46:24	--	- users who would be happy to try answer any questions you might
+2013-06-23 03:46:24	--	- have.
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- Check out www.fossevents.org to find out what is happening in
+2013-06-23 03:46:24	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-06-23 03:46:24	--	- real-life collaboration or bring a picnic and come join
+2013-06-23 03:46:24	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-06-23 03:46:24	--	- close to you.
+2013-06-23 03:46:24	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-06-23 03:46:24	--	- (http://osuosl.org/) and Private Internet Access
+2013-06-23 03:46:24	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-06-23 03:46:24	--	- long term support and dedication they show to the FOSS
+2013-06-23 03:46:24	--	- communities.
+2013-06-23 03:46:24	--	-
+2013-06-23 03:46:24	--	- ***************************************************************
+2013-06-23 03:46:24	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-06-23 03:46:24	--	- ***************************************************************
+2013-06-23 03:46:24	--	End of /MOTD command.
+2013-06-23 03:46:24	--	User mode [+i] by JohannKrauss
+2013-06-23 03:46:24	--	You have been marked as being away
+2013-06-23 03:46:25	--	*status (znc@znc.in): ==============================
+2013-06-23 03:46:25	--	*status (znc@znc.in): +  Welcome To RB ZNC Server  +
+2013-06-23 03:46:25	--	*status (znc@znc.in): ==============================
+2013-06-23 03:46:25	--	You are no longer marked as being away
+2013-06-23 05:03:01	--	irc: disconnected from server
+2013-06-23 05:04:30	--	irc: connecting to server 198.147.21.138/1030...
+2013-06-23 05:04:31	--	irc: connected to 198.147.21.138/1030 (198.147.21.138)
+2013-06-23 05:04:32	--	Invalid Password
+2013-06-23 05:04:32	=!=	irc: reading data on socket: error 17 (connection closed by peer)
+2013-06-23 05:04:32	--	irc: disconnecting from server...
+2013-06-23 05:04:32	--	irc: disconnected from server
+2013-06-23 05:04:32	--	irc: reconnecting to server in 10 seconds
+2013-06-23 05:04:42	--	irc: reconnecting to server...
+2013-06-23 05:04:42	--	irc: connecting to server 198.147.21.138/1030...
+2013-06-23 05:04:42	--	irc: connected to 198.147.21.138/1030 (198.147.21.138)
+2013-06-23 05:04:42	--	irc: disconnected from server
+2013-06-23 05:06:21	--	irc: connecting to server 198.147.21.138/1030...
+2013-06-23 05:06:21	--	irc: connected to 198.147.21.138/1030 (198.147.21.138)
+2013-06-23 05:06:22	--	Welcome to the freenode Internet Relay Chat Network JohannKrauss
+2013-06-23 05:06:22	--	Your host is morgan.freenode.net[2610:150:2c68::d0:dab:1de5/6667], running version ircd-seven-1.1.3
+2013-06-23 05:06:22	--	This server was created Tue Mar 12 2013 at 18:27:25 EDT
+2013-06-23 05:06:22	--	morgan.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-06-23 05:06:22	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-06-23 05:06:22	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-06-23 05:06:22	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-06-23 05:06:22	--	There are 191 users and 78552 invisible on 26 servers
+2013-06-23 05:06:22	--	33 :IRC Operators online
+2013-06-23 05:06:22	--	45097 :channels formed
+2013-06-23 05:06:22	--	I have 244 clients and 1 servers
+2013-06-23 05:06:22	--	244 6399 :Current local users 244, max 6399
+2013-06-23 05:06:22	--	78743 90793 :Current global users 78743, max 90793
+2013-06-23 05:06:22	--	Highest connection count: 6400 (6399 clients) (88162 connections received)
+2013-06-23 05:06:22	--	- morgan.freenode.net Message of the Day -
+2013-06-23 05:06:22	--	- Welcome to morgan.freenode.net in Chicago, IL, USA! Thank
+2013-06-23 05:06:22	--	- you to psyprus for sponsoring this server!
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- MORGAN, RICHARD K. (1965-) is an English science fiction
+2013-06-23 05:06:22	--	- author. Morgan's books are generally set in a dystopian world.
+2013-06-23 05:06:22	--	- His breakout novel Altered Carbon won the Philip K. Dick Award,
+2013-06-23 05:06:22	--	- and he has written many successful and amazing works to follow.
+2013-06-23 05:06:22	--	- His more recent writings feature heavily on the theme of
+2013-06-23 05:06:22	--	- autonomy in science fiction and escapism in fantasy.
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- Welcome to freenode - supporting the free and open source
+2013-06-23 05:06:22	--	- software communities since 1998.
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- By connecting to freenode you indicate that you have read and
+2013-06-23 05:06:22	--	- agree to adhere to our policies and procedures as per the
+2013-06-23 05:06:22	--	- website (http://freenode.net/).
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- We would like to remind you that unauthorised public logging
+2013-06-23 05:06:22	--	- of channels on the network is prohibited. Public channel
+2013-06-23 05:06:22	--	- logging should only take place where the channel owner(s) has
+2013-06-23 05:06:22	--	- requested this and users of the channel are all made aware
+2013-06-23 05:06:22	--	- (if you are publically logging your channel, you may wish to
+2013-06-23 05:06:22	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- freenode runs an open proxy scanner. For details on freenode
+2013-06-23 05:06:22	--	- network policy, please take a look at our policy page
+2013-06-23 05:06:22	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-06-23 05:06:22	--	- indicates your acceptance of this policy.
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- Please join #freenode for any network-related questions or
+2013-06-23 05:06:22	--	- queries, there are numerous freenode volunteers and helpful
+2013-06-23 05:06:22	--	- users who would be happy to try answer any questions you might
+2013-06-23 05:06:22	--	- have.
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- Check out www.fossevents.org to find out what is happening in
+2013-06-23 05:06:22	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-06-23 05:06:22	--	- real-life collaboration or bring a picnic and come join
+2013-06-23 05:06:22	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-06-23 05:06:22	--	- close to you.
+2013-06-23 05:06:22	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-06-23 05:06:22	--	- (http://osuosl.org/) and Private Internet Access
+2013-06-23 05:06:22	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-06-23 05:06:22	--	- long term support and dedication they show to the FOSS
+2013-06-23 05:06:22	--	- communities.
+2013-06-23 05:06:22	--	-
+2013-06-23 05:06:22	--	- ***************************************************************
+2013-06-23 05:06:22	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-06-23 05:06:22	--	- ***************************************************************
+2013-06-23 05:06:22	--	End of /MOTD command.
+2013-06-23 05:06:22	--	User mode [+i] by JohannKrauss
+2013-06-23 05:06:22	--	You have been marked as being away
+2013-06-23 05:06:23	--	*status (znc@znc.in): ==============================
+2013-06-23 05:06:23	--	*status (znc@znc.in): +  Welcome To RB ZNC Server  +
+2013-06-23 05:06:23	--	*status (znc@znc.in): ==============================
+2013-06-23 05:06:23	--	You are no longer marked as being away
+2013-06-23 05:32:55	--	irc: disconnected from server
+2013-06-23 15:15:45	--	irc: connecting to server 198.147.21.138/1030...
+2013-06-23 15:15:45	--	irc: connected to 198.147.21.138/1030 (198.147.21.138)
+2013-06-23 15:15:46	--	Welcome to the freenode Internet Relay Chat Network JohannKrauss
+2013-06-23 15:15:46	--	Your host is morgan.freenode.net[2610:150:2c68::d0:dab:1de5/6667], running version ircd-seven-1.1.3
+2013-06-23 15:15:46	--	This server was created Tue Mar 12 2013 at 18:27:25 EDT
+2013-06-23 15:15:46	--	morgan.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-06-23 15:15:46	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-06-23 15:15:46	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-06-23 15:15:46	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-06-23 15:15:46	--	There are 191 users and 78552 invisible on 26 servers
+2013-06-23 15:15:46	--	33 :IRC Operators online
+2013-06-23 15:15:46	--	45097 :channels formed
+2013-06-23 15:15:46	--	I have 244 clients and 1 servers
+2013-06-23 15:15:46	--	244 6399 :Current local users 244, max 6399
+2013-06-23 15:15:46	--	78743 90793 :Current global users 78743, max 90793
+2013-06-23 15:15:46	--	Highest connection count: 6400 (6399 clients) (88162 connections received)
+2013-06-23 15:15:46	--	- morgan.freenode.net Message of the Day -
+2013-06-23 15:15:46	--	- Welcome to morgan.freenode.net in Chicago, IL, USA! Thank
+2013-06-23 15:15:46	--	- you to psyprus for sponsoring this server!
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- MORGAN, RICHARD K. (1965-) is an English science fiction
+2013-06-23 15:15:46	--	- author. Morgan's books are generally set in a dystopian world.
+2013-06-23 15:15:46	--	- His breakout novel Altered Carbon won the Philip K. Dick Award,
+2013-06-23 15:15:46	--	- and he has written many successful and amazing works to follow.
+2013-06-23 15:15:46	--	- His more recent writings feature heavily on the theme of
+2013-06-23 15:15:46	--	- autonomy in science fiction and escapism in fantasy.
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- Welcome to freenode - supporting the free and open source
+2013-06-23 15:15:46	--	- software communities since 1998.
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- By connecting to freenode you indicate that you have read and
+2013-06-23 15:15:46	--	- agree to adhere to our policies and procedures as per the
+2013-06-23 15:15:46	--	- website (http://freenode.net/).
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- We would like to remind you that unauthorised public logging
+2013-06-23 15:15:46	--	- of channels on the network is prohibited. Public channel
+2013-06-23 15:15:46	--	- logging should only take place where the channel owner(s) has
+2013-06-23 15:15:46	--	- requested this and users of the channel are all made aware
+2013-06-23 15:15:46	--	- (if you are publically logging your channel, you may wish to
+2013-06-23 15:15:46	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- freenode runs an open proxy scanner. For details on freenode
+2013-06-23 15:15:46	--	- network policy, please take a look at our policy page
+2013-06-23 15:15:46	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-06-23 15:15:46	--	- indicates your acceptance of this policy.
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- Please join #freenode for any network-related questions or
+2013-06-23 15:15:46	--	- queries, there are numerous freenode volunteers and helpful
+2013-06-23 15:15:46	--	- users who would be happy to try answer any questions you might
+2013-06-23 15:15:46	--	- have.
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- Check out www.fossevents.org to find out what is happening in
+2013-06-23 15:15:46	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-06-23 15:15:46	--	- real-life collaboration or bring a picnic and come join
+2013-06-23 15:15:46	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-06-23 15:15:46	--	- close to you.
+2013-06-23 15:15:46	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-06-23 15:15:46	--	- (http://osuosl.org/) and Private Internet Access
+2013-06-23 15:15:46	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-06-23 15:15:46	--	- long term support and dedication they show to the FOSS
+2013-06-23 15:15:46	--	- communities.
+2013-06-23 15:15:46	--	-
+2013-06-23 15:15:46	--	- ***************************************************************
+2013-06-23 15:15:46	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-06-23 15:15:46	--	- ***************************************************************
+2013-06-23 15:15:46	--	End of /MOTD command.
+2013-06-23 15:15:46	--	User mode [+i] by JohannKrauss
+2013-06-23 15:15:46	--	You have been marked as being away
+2013-06-23 15:15:47	--	*status (znc@znc.in): ==============================
+2013-06-23 15:15:47	--	*status (znc@znc.in): +  Welcome To RB ZNC Server  +
+2013-06-23 15:15:47	--	*status (znc@znc.in): ==============================
+2013-06-23 15:15:47	--	You are no longer marked as being away
+2013-06-23 18:14:37	--	irc: disconnected from server
+2013-06-27 01:29:55	--	irc: connecting to server 198.147.21.138/1030...
+2013-06-27 01:29:56	--	irc: connected to 198.147.21.138/1030 (198.147.21.138)
+2013-06-27 01:29:57	--	Welcome to the freenode Internet Relay Chat Network JohannKrauss
+2013-06-27 01:29:57	--	Your host is leguin.freenode.net[2001:6b0:e:2018::172/6667], running version ircd-seven-1.1.3
+2013-06-27 01:29:57	--	This server was created Mon Dec 31 2012 at 22:37:58 CET
+2013-06-27 01:29:57	--	leguin.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-06-27 01:29:57	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-06-27 01:29:57	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-06-27 01:29:57	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-06-27 01:29:57	--	There are 194 users and 79102 invisible on 25 servers
+2013-06-27 01:29:57	--	38 :IRC Operators online
+2013-06-27 01:29:57	--	45901 :channels formed
+2013-06-27 01:29:57	--	I have 6129 clients and 1 servers
+2013-06-27 01:29:57	--	6129 9676 :Current local users 6129, max 9676
+2013-06-27 01:29:57	--	79296 92550 :Current global users 79296, max 92550
+2013-06-27 01:29:57	--	Highest connection count: 9677 (9676 clients) (1254966 connections received)
+2013-06-27 01:29:57	--	- leguin.freenode.net Message of the Day -
+2013-06-27 01:29:57	--	- Welcome to leguin.freenode.net in Umeå, Sweden, EU! Thanks to
+2013-06-27 01:29:57	--	- the Academic Computer Club at Umeå University for sponsoring
+2013-06-27 01:29:57	--	- this server!
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- LE GUIN, URSULA K. (1929-) Born in Berkeley, California,
+2013-06-27 01:29:57	--	- Ursula Le Guin is an american author primarily known for
+2013-06-27 01:29:57	--	- her Science Fiction and Fantasy. She has been awarded the
+2013-06-27 01:29:57	--	- it is a bit inconsistent.
+2013-06-27 01:29:57	--	- Hugo and Nebula awards, and is best known for her Earthsea
+2013-06-27 01:29:57	--	- and Hainish series.
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- Welcome to freenode - supporting the free and open source
+2013-06-27 01:29:57	--	- software communities since 1998.
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- By connecting to freenode you indicate that you have read and
+2013-06-27 01:29:57	--	- agree to adhere to our policies and procedures as per the
+2013-06-27 01:29:57	--	- website (http://freenode.net/).
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- We would like to remind you that unauthorised public logging
+2013-06-27 01:29:57	--	- of channels on the network is prohibited. Public channel
+2013-06-27 01:29:57	--	- logging should only take place where the channel owner(s) has
+2013-06-27 01:29:57	--	- requested this and users of the channel are all made aware
+2013-06-27 01:29:57	--	- (if you are publically logging your channel, you may wish to
+2013-06-27 01:29:57	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- freenode runs an open proxy scanner. For details on freenode
+2013-06-27 01:29:57	--	- network policy, please take a look at our policy page
+2013-06-27 01:29:57	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-06-27 01:29:57	--	- indicates your acceptance of this policy.
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- Please join #freenode for any network-related questions or
+2013-06-27 01:29:57	--	- queries, there are numerous freenode volunteers and helpful
+2013-06-27 01:29:57	--	- users who would be happy to try answer any questions you might
+2013-06-27 01:29:57	--	- have.
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- Check out www.fossevents.org to find out what is happening in
+2013-06-27 01:29:57	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-06-27 01:29:57	--	- real-life collaboration or bring a picnic and come join
+2013-06-27 01:29:57	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-06-27 01:29:57	--	- close to you.
+2013-06-27 01:29:57	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-06-27 01:29:57	--	- (http://osuosl.org/) and Private Internet Access
+2013-06-27 01:29:57	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-06-27 01:29:57	--	- long term support and dedication they show to the FOSS
+2013-06-27 01:29:57	--	- communities.
+2013-06-27 01:29:57	--	-
+2013-06-27 01:29:57	--	- ***************************************************************
+2013-06-27 01:29:57	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-06-27 01:29:57	--	- ***************************************************************
+2013-06-27 01:29:57	--	End of /MOTD command.
+2013-06-27 01:29:57	--	User mode [+i] by JohannKrauss
+2013-06-27 01:29:57	--	You have been marked as being away
+2013-06-27 01:29:58	--	morgan.freenode.net (morgan.freenode.net): [13:52:08] Server Terminating. Received SIGTERM
+2013-06-27 01:29:58	--	NickServ (NickServ@services.): [13:52:10] This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2013-06-27 01:29:58	--	ChanServ (ChanServ@services.): [13:52:27] [#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+2013-06-27 01:29:58	--	ChanServ (ChanServ@services.): [13:52:27] [##programming] The following extend the guidelines listed in the topic. Mindless comments such as "Don't reinvent the wheel!" or "<language> is crap!" are unwelcome if they have no merit. All discussion of moderation issues is done through ##programming-ops (or privately with a channel operator), not in the main channel. To join, send a KNOCK request (/quote KNOCK ##programming-ops or similar) to be invited automatically.
+2013-06-27 01:29:58	--	ChanServ (ChanServ@services.): [13:52:27] [#lowendbox] Welcome to #lowendbox! Please behave and don't be rude or disrespectful. This is a channel to learn and grow in ones self and knowledge. Enjoy.
+2013-06-27 01:29:58	--	*status (znc@znc.in): ==============================
+2013-06-27 01:29:58	--	*status (znc@znc.in): +  Welcome To RB ZNC Server  +
+2013-06-27 01:29:58	--	*status (znc@znc.in): ==============================
+2013-06-27 01:29:58	--	You are no longer marked as being away
+2013-06-27 01:31:28	--	MSG(nickserv): identify *****
+2013-06-27 01:31:29	--	NickServ (NickServ@services.): You are now identified for JohannKrauss.
+2013-06-27 05:44:12	=!=	irc: this buffer is not a channel!
+2013-06-27 05:50:59	--	irc: disconnected from server

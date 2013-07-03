@@ -1,0 +1,11 @@
+2013-06-23 03:44:17	--	irc: connecting to server 198.147.21.138:1030/6667...
+2013-06-23 03:44:17	=!=	irc: address "198.147.21.138:1030" not found
+2013-06-23 03:44:17	=!=	irc: error: Name or service not known
+2013-06-23 03:44:17	--	irc: reconnecting to server in 10 seconds
+2013-06-23 03:44:27	--	irc: reconnecting to server...
+2013-06-23 03:44:27	--	irc: connecting to server 198.147.21.138:1030/6667...
+2013-06-23 03:44:27	=!=	irc: address "198.147.21.138:1030" not found
+2013-06-23 03:44:27	=!=	irc: error: Name or service not known
+2013-06-23 03:44:27	--	irc: reconnecting to server in 20 seconds
+2013-06-23 03:44:36	=!=	irc: this buffer is not a channel!
+2013-06-23 03:44:41	--	irc: disconnected from server
